@@ -72,7 +72,7 @@ def kofic_boxoffice_downloader(key, date, filename):
 # main이죠
 datestart = "20160324"
 dateend = "20161231"
-apikey = "5c82c583b4a861fd4e85e92e80624bb9"
+apikey = "x"
 #boxoffice_header_create("boxoffice_%s_%s.txt" % (datestart, dateend))
 #시작일 부터 끝나는 날 까지 다 모아서 적습니다.
 for date in datestartend(datestart, dateend):
